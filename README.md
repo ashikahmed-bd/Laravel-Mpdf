@@ -8,7 +8,7 @@
 Require this package in your `composer.json` or install it by running:
 
 ```
-composer require ashik/pdf
+composer require ashik/pdf dev-main
 ```
 
 > Note: This package supports auto-discovery features of Laravel 5.5+, You only need to manually add the service provider and alias if working on Laravel version lower then 7.0

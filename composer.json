@@ -31,5 +31,7 @@
                 "PDF": "Ashik\\Pdf\\Facades\\Pdf"
             }
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
