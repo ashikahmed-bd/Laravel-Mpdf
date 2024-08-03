@@ -1,7 +1,8 @@
 {
     "name": "ashik/pdf",
     "version": "1.0",
-    "description": "Laravel mpdf",
+    "description": "Laravel Mpdf: Using Mpdf in Laravel to generate Pdfs.",
+    "keywords": ["mpdf", "pdf", "laravel"],
     "type": "library",
     "require": {
         "php": "^5.6|^7.0|^8.0|^8.3",
@@ -20,6 +21,7 @@
         }
     ],
     "minimum-stability": "dev",
+    "prefer-stable": true,
 
     "extra": {
         "laravel": {
