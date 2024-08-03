@@ -1,5 +1,6 @@
 {
     "name": "ashik/pdf",
+    "version": "1.0",
     "description": "Laravel mpdf",
     "type": "library",
     "require": {
