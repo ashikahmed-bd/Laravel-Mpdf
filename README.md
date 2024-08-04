@@ -8,7 +8,7 @@
 Require this package in your `composer.json` or install it by running:
 
 ```
-composer require ashik/pdf dev-main
+composer require ashik/pdf
 ```
 
 > Note: This package supports auto-discovery features of Laravel 5.5+, You only need to manually add the service provider and alias if working on Laravel version lower then 7.0
@@ -214,7 +214,7 @@ You can configure the macro in the `AppServiceProvider` provider file.
 
 ```php
 //...
-use Mccarlosen\LaravelMpdf\LaravelMpdf;
+use Ashik\Pdf\Facades\Pdf;
 
 class AppServiceProvider extends ServiceProvider
 {
